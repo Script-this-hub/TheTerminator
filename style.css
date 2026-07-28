@@ -1,0 +1,18 @@
+body {
+    background-color: #7f09b6; /* Purple page background */
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    background-color: #ff0000; /* Red box background */
+    color: #ffffff;            /* Force text to be WHITE so it is visible */
+    padding: 10px;             /* Adds spacing inside the red box */
+}   
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
