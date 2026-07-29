@@ -1,18 +1,33 @@
 body {
-    background-color: #7f09b6; /* Purple page background */
+    background-color: #6d604a; /* Purple page background */
     font-family: sans-serif;
     text-align: center;
     padding-top: 50px;
 }
 
 h1 {
-    background-color: #ff0000; /* Red box background */
+    background-color: #952f2f; /* Red box background */
     color: #ffffff;            /* Force text to be WHITE so it is visible */
     padding: 10px;             /* Adds spacing inside the red box */
 }   
-
+a  {
+    color :#ff0000; /* Red text for links */
+    padding: 10px;    /* Adds spacing around the link text */
+}
 button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
 }
+p {
+    font-size: 18px;
+    color: #8ad824;
+    padding: 10px;
+    margin: 30px;
+    padding-top: 20px;
+    text-align: left;
+}
+p2 {
+    font-size: 18px;
+    color: #8ad824;
+    text-align: center;}    
